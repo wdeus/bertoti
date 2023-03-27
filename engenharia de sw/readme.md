@@ -27,3 +27,12 @@ CRIAÇÃO - UML
 ![image](https://user-images.githubusercontent.com/111614619/223278442-f292ee84-6105-40ef-8eba-9ff0cf39adae.png)
 
 [WKSP_EngenhariaSW.zip](https://github.com/wdeus/bertoti/files/11007131/WKSP_EngenhariaSW.zip)
+
+
+Melhorando UML:
+
+![image](https://user-images.githubusercontent.com/111614619/228052952-185271dc-8d67-4581-9da7-9df7fdf811a7.png)
+
+Atualizando código de acordo com o UML:
+[WKSP_EngenhariaSW_v1.zip](https://github.com/wdeus/bertoti/files/11082534/WKSP_EngenhariaSW_v1.zip)
+
