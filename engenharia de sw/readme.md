@@ -36,3 +36,6 @@ Melhorando UML:
 Atualizando código de acordo com o UML:
 [WKSP_EngenhariaSW_v1.zip](https://github.com/wdeus/bertoti/files/11082534/WKSP_EngenhariaSW_v1.zip)
 
+Inserindo relacionamento nas classes UML:
+
+![image](https://user-images.githubusercontent.com/111614619/229247830-0276f28a-323e-4438-a4cd-7a08a1d17298.png)
