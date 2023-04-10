@@ -39,3 +39,7 @@ Atualizando código de acordo com o UML:
 Inserindo relacionamento nas classes UML:
 
 ![image](https://user-images.githubusercontent.com/111614619/229247830-0276f28a-323e-4438-a4cd-7a08a1d17298.png)
+
+Criando Caso de uso:
+
+![image](https://user-images.githubusercontent.com/111614619/231008238-573ed020-cd18-49f6-93c7-b2b340f86527.png)
