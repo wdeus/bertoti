@@ -43,3 +43,7 @@ Inserindo relacionamento nas classes UML:
 Criando Caso de uso:
 
 ![image](https://user-images.githubusercontent.com/111614619/231008238-573ed020-cd18-49f6-93c7-b2b340f86527.png)
+
+Equalizando código de acordo com UML:
+
+[WKSP_EngenhariaSQ_v2.zip](https://github.com/wdeus/bertoti/files/11410361/WKSP_EngenhariaSQ_v2.zip)
