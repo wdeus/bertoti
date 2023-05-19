@@ -19,7 +19,9 @@ Requisitos pode ser entendido como sendo a regra de negócio de um sistema. Em o
   Estrutura que um software deve ter... ex: oferecer escalabilidade
   
   2.3 Dê 2 exemplos de trade-offs em requisitos não funcionais
-
+   Qual linguagem a ser usada
+   provedor de nuvem
+   servidor
 
 
 CRIAÇÃO - UML
