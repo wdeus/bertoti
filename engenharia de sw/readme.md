@@ -50,3 +50,6 @@ Criando Caso de uso:
 Equalizando código de acordo com UML:
 
 [WKSP_EngenhariaSQ_v2.zip](https://github.com/wdeus/bertoti/files/11410361/WKSP_EngenhariaSQ_v2.zip)
+
+Correção no diagrama UML (Enums):
+![image](https://github.com/wdeus/bertoti/assets/111614619/dbd41176-3d6c-4d98-b1fb-93df74d76cc4)
