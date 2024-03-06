@@ -23,7 +23,7 @@ Com uma visão abrangente, transito entre tecnologias legadas e modernas, buscan
 ## Meus Projetos
 
 ### Em 2023-2
-Fale sobre o projeto desenvolvido. Apresente a empresa parceira, o problema e a solução entregue pela equipe (mínimo de um parágrafo por item). Recomenda-se o uso de figuras (ou até mesmo vídeos) para ilustrar os principais projetos.
+O projeto, desenvolvido em colaboração com a 2RP, visou resolver o desafio enfrentado pela empresa na gestão das horas extras e sobreaviso, atualmente realizada através de planilhas Excel. A solução proposta consiste em um sistema web que possibilita o controle preciso da jornada de trabalho, identificação e categorização de horas extras, além do gerenciamento eficiente das horas de sobreaviso. Com diferentes níveis de acesso para administradores, gestores e colaboradores, a plataforma proporciona uma abordagem integrada e moderna, eliminando as limitações do método anterior e aprimorando a eficiência na gestão do tempo e recursos.
 
 [GIT](https://github.com/api-3sem-pixel-api/api)
 
