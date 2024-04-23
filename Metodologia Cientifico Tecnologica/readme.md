@@ -45,7 +45,27 @@ MySQL:
 Sistema de gerenciamento de banco de dados relacional. Desempenha um papel central no armazenamento e recuperação eficiente de dados, fundamentais para o funcionamento do projeto.
 
 #### Contribuições Pessoais
-Apresente suas contribuições no projeto. Foque nas funcionalidades em que você mais atuou. Descreva sua atuação em detalhes, especificando que tecnologias você utilizou.
+<details>
+<summary>Definição da Arquitetura do Back-end</summary>
+
+No projeto acadêmico, minhas principais contribuições foram na definição da arquitetura do back-end. Fui responsável por projetar e implementar a estrutura de camadas, seguindo o padrão MVC (Model-View-Controller), com ênfase na camada de serviço. Desenvolvi os controladores para lidar com as requisições HTTP, os serviços para implementar a lógica de negócios e os repositórios para interagir com o banco de dados. Utilizei tecnologias como Spring Boot e Spring MVC para criar essa arquitetura robusta e escalável.
+
+</details>
+
+<details>
+<summary>Configuração do Spring Security</summary>
+
+Além da arquitetura, também contribuí com a configuração do Spring Security para garantir a autenticação e autorização dos usuários. Isso envolveu a definição de regras de acesso, configuração de login, gestão de sessões e proteção contra ameaças comuns, como CSRF (Cross-Site Request Forgery) e XSS (Cross-Site Scripting).
+
+</details>
+
+<details>
+<summary>Definição das Tabelas de Domínio</summary>
+
+Participei ativamente na definição das tabelas de domínio, trabalhando na modelagem e na criação das entidades do banco de dados. Utilizei ferramentas como Hibernate e JPA para mapeamento objeto-relacional e definição das relações entre as entidades. Essa contribuição foi essencial para garantir a consistência e integridade dos dados manipulados pelo sistema.
+
+</details>
+
 
 #### Hard Skills
 Java:
