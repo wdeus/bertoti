@@ -49,6 +49,8 @@ Sistema de gerenciamento de banco de dados relacional. Desempenha um papel centr
 <summary>Definição da Arquitetura do Back-end</summary>
 
 No projeto acadêmico, minhas principais contribuições foram na definição da arquitetura do back-end. Fui responsável por projetar e implementar a estrutura de camadas, seguindo o padrão MVC (Model-View-Controller), com ênfase na camada de serviço. Desenvolvi os controladores para lidar com as requisições HTTP, os serviços para implementar a lógica de negócios e os repositórios para interagir com o banco de dados. Utilizei tecnologias como Spring Boot e Spring MVC para criar essa arquitetura robusta e escalável.
+![image](https://github.com/wdeus/bertoti/assets/111614619/718e779b-53b1-413c-bca6-4a6f9f16d79f)
+![image](https://github.com/wdeus/bertoti/assets/111614619/a10f88d7-51b7-458e-adf7-2393b0019b84)
 
 </details>
 
@@ -57,12 +59,18 @@ No projeto acadêmico, minhas principais contribuições foram na definição da
 
 Além da arquitetura, também contribuí com a configuração do Spring Security para garantir a autenticação e autorização dos usuários. Isso envolveu a definição de regras de acesso, configuração de login, gestão de sessões e proteção contra ameaças comuns, como CSRF (Cross-Site Request Forgery) e XSS (Cross-Site Scripting).
 
+![image](https://github.com/wdeus/bertoti/assets/111614619/81b1a6b9-a424-423f-818d-e3fae9ccc2dd)
+
+Acima esta um trecho de código que representa a implementação de um filtro de segurança que intercepta as solicitações HTTP antes que elas sejam processadas pelo servidor. O objetivo principal do filtro é extrair o token JWT (JSON Web Token) de um cabeçalho de autorização da solicitação, autenticar o usuário com base nesse token e, em seguida, configurar o contexto de segurança do Spring com as informações de autenticação do usuário.
+
 </details>
 
 <details>
 <summary>Definição das Tabelas de Domínio</summary>
 
 Participei ativamente na definição das tabelas de domínio, trabalhando na modelagem e na criação das entidades do banco de dados. Utilizei ferramentas como Hibernate e JPA para mapeamento objeto-relacional e definição das relações entre as entidades. Essa contribuição foi essencial para garantir a consistência e integridade dos dados manipulados pelo sistema.
+![image](https://github.com/wdeus/bertoti/assets/111614619/41908aba-be91-43dc-b2f8-84e901173c54)
+![image](https://github.com/wdeus/bertoti/assets/111614619/28dd9910-9a24-428c-abf1-1f20a257b941)
 
 </details>
 
