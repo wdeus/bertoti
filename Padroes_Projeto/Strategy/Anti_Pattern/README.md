@@ -1,1 +1,0 @@
-No exemplo dado no código, a classe 'Pedido' herda de 'CalculadoraDeImposto', o que significa que 'Pedido' está diretamente acoplado à implementação de 'CalculadoraDeImposto'. Se a lógica de cálculo de impostos precisar mudar, teria que alterar também a classe 'Pedido', ferindo o princípio aberto/fechado.
