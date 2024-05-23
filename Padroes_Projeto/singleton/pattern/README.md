@@ -1,2 +1,1 @@
-
-![pattern](https://github.com/wdeus/bertoti/assets/111614619/30d596e1-9cbf-42e0-8adf-c265873d998e)
+![pattern(1)](https://github.com/wdeus/bertoti/assets/111614619/63a4bc93-dd34-47aa-b512-8b098557443b)
