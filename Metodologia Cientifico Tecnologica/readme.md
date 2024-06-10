@@ -52,6 +52,8 @@ No projeto acadêmico, minhas principais contribuições foram na definição da
 ![image](https://github.com/wdeus/bertoti/assets/111614619/718e779b-53b1-413c-bca6-4a6f9f16d79f)
 ![image](https://github.com/wdeus/bertoti/assets/111614619/a10f88d7-51b7-458e-adf7-2393b0019b84)
 
+As imagens acima ilustram claramente a arquitetura utilizada. O fluxo após a interação do usuário no front-end segue os seguintes passos: a requisição é encaminhada para o Controller, onde estão definidos os endpoints. O Controller então chama o Service, que é responsável pela execução das regras de negócio, e este, por sua vez, aciona o Repository para obter as informações do banco de dados.
+
 </details>
 
 <details>
@@ -71,6 +73,8 @@ Acima esta um trecho de código que representa a implementação de um filtro de
 Participei ativamente na definição das tabelas de domínio, trabalhando na modelagem e na criação das entidades do banco de dados. Utilizei ferramentas como Hibernate e JPA para mapeamento objeto-relacional e definição das relações entre as entidades. Essa contribuição foi essencial para garantir a consistência e integridade dos dados manipulados pelo sistema.
 ![image](https://github.com/wdeus/bertoti/assets/111614619/41908aba-be91-43dc-b2f8-84e901173c54)
 ![image](https://github.com/wdeus/bertoti/assets/111614619/28dd9910-9a24-428c-abf1-1f20a257b941)
+
+Acima está o relacionamento das tabelas definidas, bem como a representação de uma delas através de uma entidade.
 
 </details>
 
