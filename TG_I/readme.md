@@ -23,16 +23,42 @@ Profissional com ampla experiência em desenvolvimento backend, especializado em
 <summary>2022-2</summary>
   
 ### Em 2022-2
-
+O projeto é uma plataforma de Avaliação Técnica 360°, focada na gestão e acompanhamento de desempenho. A ferramenta conta com dois tipos de usuários: o administrador e o usuário básico. O administrador é responsável por gerenciar o sistema, incluindo o cadastro de novos usuários básicos. Já os usuários básicos têm a função de atribuir notas nas avaliações, e contam com um dashboard para acompanhar os resultados, permitindo uma análise detalhada e contínua do desempenho. Essa estrutura promove uma visão ampla e dinâmica sobre o progresso e as competências dos avaliados.
 
 #### Tecnologias Utilizadas
+Python:
+Linguagem de programação versátil e de fácil leitura. É usada no projeto para desenvolver funcionalidades de backend, possibilitando uma integração ágil e eficiente com outras tecnologias.
 
+FastAPI:
+Framework moderno e de alta performance para criação de APIs em Python. No projeto, facilita o desenvolvimento rápido de endpoints RESTful, otimizando a comunicação entre o frontend e o backend.
+
+Javascript:
+Linguagem de programação essencial para desenvolvimento web, permitindo a criação de funcionalidades interativas. Utilizado no frontend para adicionar dinamismo e aprimorar a experiência do usuário.
+
+CSS:
+Linguagem de estilos que define a apresentação visual do projeto. Responsável por tornar a interface mais atraente e responsiva, adaptando-se bem a diferentes dispositivos.
+
+HTML:
+Linguagem de marcação utilizada para estruturar e organizar o conteúdo da aplicação web. Serve como a base para a construção de páginas, garantindo acessibilidade e semântica ao projeto.
 
 #### Contribuições Pessoais
 
 #### Hard Skills
+Python:
+Conhecimento prático da linguagem Python, capaz de desenvolver funcionalidades backend de forma eficiente.
+
+FastAPI:
+Habilidade na criação de APIs RESTful com FastAPI, incluindo configuração de endpoints e validação de dados.
 
 #### Soft Skills
+Adaptabilidade:
+Acostumado a trabalhar com Java, ao me deparar com a necessidade do uso do Pyhton para desenvolvimento deste projeto, tive que demonstrar flexibilidade e capacidade de adaptação para aprender essa nova linguagem.
+
+Trabalho em Equipe: 
+A adoção da metodologia Scrum exigiu colaboração estreita com a equipe, promovendo habilidades de comunicação, alinhamento de expectativas e contribuição para o desenvolvimento coletivo do projeto.
+
+Resiliência:
+Aprender uma nova tecnologia enquanto me adequava a trabalhar pela primeira vez com a equipe, exigiu persistência e capacidade de lidar com desafios, habilidades cruciais para manter o foco e superar dificuldades ao longo do projeto.
 
 </details>
 
@@ -49,7 +75,6 @@ Profissional com ampla experiência em desenvolvimento backend, especializado em
 
 
 #### Soft Skills
-
 
 </details>
 
