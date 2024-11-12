@@ -66,13 +66,24 @@ Aprender uma nova tecnologia enquanto me adequava a trabalhar pela primeira vez 
 <summary>2023-1</summary>
   
 ### Em 2023-1
+O projeto consiste em um sistema de controle de jornada de trabalho, desenvolvido para gerenciar e classificar as horas extras e sobreavisos dos colaboradores. A ferramenta possui três tipos de acesso: o administrador, com visão ampla para o departamento pessoal e financeiro; o gestor, responsável por aprovar e lançar horas; e o colaborador, que pode registrar suas próprias horas extras. Esse sistema automatiza o acompanhamento de jornada, facilitando a organização e a precisão no controle de horas trabalhadas.
 
 #### Tecnologias Utilizadas
+Java:
+Linguagem de programação usada no backend para desenvolver a lógica central do sistema de controle de jornada, garantindo confiabilidade e eficiência na execução das funcionalidades de gerenciamento de horas.
+
+JavaFX:
+Biblioteca de Java para criação de interfaces gráficas, utilizada para desenvolver uma aplicação desktop interativa e intuitiva, facilitando o acesso e a usabilidade dos administradores, gestores e colaboradores.
+
+MySQL:
+Banco de dados relacional que armazena e organiza as informações dos colaboradores, jornadas, horas extras e sobreavisos, permitindo consultas rápidas e seguras.
+
+CSS:
+Utilizado para estilizar a interface gráfica criada com JavaFX, proporcionando uma aparência visual mais agradável e profissional, além de garantir consistência e uma experiência amigável para os usuários.
 
 #### Contribuições Pessoais
 
 #### Hard Skills
-
 
 #### Soft Skills
 
@@ -168,15 +179,27 @@ Desenvolvi habilidades de liderança ao orientar membros da equipe, coordenar es
 <summary>2024-1</summary>
   
 ### Em 2024-1
-
+O projeto consistiu em um sistema de gestão para o programa Oracle PartnerNetwork, com foco no acompanhamento e monitoramento do progresso dos parceiros da Oracle. A plataforma permite o cadastro de novos parceiros, bem como a atualização e gerenciamento das informações dos parceiros já existentes. Com essa solução, a empresa consegue visualizar e acompanhar o desempenho e a evolução de seus parceiros de maneira centralizada e eficiente, facilitando o relacionamento e o suporte aos participantes do programa.
 
 #### Tecnologias Utilizadas
+Java:
+Linguagem de programação robusta usada no desenvolvimento de funcionalidades de backend, garantindo performance e confiabilidade no sistema.
 
+Spring:
+Framework que facilita o desenvolvimento de aplicações Java, utilizado para estruturar o backend, gerenciar dados e implementar APIs seguras e escaláveis.
+
+Vue:
+Framework JavaScript progressivo para o desenvolvimento de interfaces de usuário interativas e dinâmicas, melhorando a experiência do usuário no frontend.
+
+Bootstrap:
+Framework de CSS que agiliza o desenvolvimento de interfaces responsivas e atraentes, garantindo um design consistente e adaptável a diferentes dispositivos.
+
+Oracle:
+Banco de dados relacional utilizado para armazenar e gerenciar os dados dos parceiros de forma segura e eficiente, suportando consultas complexas e integração com o backend.
 
 #### Contribuições Pessoais
 
 #### Hard Skills
-
 
 #### Soft Skills
 
