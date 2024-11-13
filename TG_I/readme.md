@@ -200,8 +200,27 @@ Banco de dados relacional utilizado para armazenar e gerenciar os dados dos parc
 #### Contribuições Pessoais
 
 #### Hard Skills
+Desenvolvimento de APIs REST com Java e Spring:
+Habilidade em criar e configurar APIs RESTful usando Java e o framework Spring, permitindo a comunicação entre diferentes partes do sistema de forma eficiente e segura.
+
+Implementação de Arquitetura Hexagonal:
+Experiência prática na aplicação da arquitetura hexagonal, que permite maior modularidade e flexibilidade no código, facilitando a manutenção e a adaptação da aplicação a novas demandas.
+
+Persistência de Dados em Banco de Dados Oracle:
+Conhecimento em configurar e realizar operações de persistência de dados em um banco de dados Oracle, utilizando o Spring Data e outras ferramentas de integração para garantir eficiência e consistência nas transações de dados.
+
+Integração de Camadas de Dados e Domínio:
+Capacidade de implementar uma separação clara entre as camadas de domínio e de dados, conforme preconizado pela arquitetura hexagonal, garantindo uma estrutura organizada.
 
 #### Soft Skills
+Liderança Técnica:
+Ao sugerir a adoção da arquitetura hexagonal, tive a oportunidade de assumir uma postura de liderança técnica, orientando o time e guiando a execução de uma nova estrutura. Isso me ajudou a desenvolver iniciativa e a confiança para apresentar ideias que possam aprimorar o projeto.
+
+Colaboração Interdisciplinar: 
+A troca constante com os desenvolvedores do frontend foi essencial para entender as necessidades específicas deles. Essa colaboração estreita me permitiu desenvolver uma abordagem mais integrada, buscando soluções que atendessem às necessidades de todos os envolvidos.
+
+Didática e Capacidade de Influência: 
+Ao encontrar maneiras de ajudar meus colegas a compreender e executar a nova arquitetura, exercitei minha capacidade de ensinar e influenciar. Adaptei minha comunicação para facilitar a compreensão, usando exemplos práticos e simplificando conceitos, o que foi fundamental para o progresso do time.
 
 
 </details>
