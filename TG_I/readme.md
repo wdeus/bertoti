@@ -84,6 +84,17 @@ Utilizado para estilizar a interface gráfica criada com JavaFX, proporcionando 
 #### Contribuições Pessoais
 
 #### Hard Skills
+Desenvolvimento de Aplicações Desktop com JavaFX:
+Conhecimento em criar interfaces gráficas para aplicações desktop usando JavaFX, incluindo design de telas interativas e responsivas para uma experiência de usuário aprimorada.
+
+Aplicação do Padrão MVC:
+Habilidade em estruturar o código seguindo o padrão de arquitetura MVC (Model-View-Controller), promovendo a separação entre a lógica de negócios, a interface de usuário e a gestão dos dados.
+
+Persistência de Dados com MySQL:
+Experiência em configurar e realizar operações de CRUD (criação, leitura, atualização e exclusão) em um banco de dados MySQL, garantindo a persistência e integridade dos dados da aplicação.
+
+Integração de Banco de Dados em Aplicações Java:
+Competência em conectar e integrar o MySQL com Java, utilizando JDBC para realizar transações de dados de forma eficiente e segura.
 
 #### Soft Skills
 
