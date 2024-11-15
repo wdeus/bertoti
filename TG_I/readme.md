@@ -82,6 +82,34 @@ CSS:
 Utilizado para estilizar a interface gráfica criada com JavaFX, proporcionando uma aparência visual mais agradável e profissional, além de garantir consistência e uma experiência amigável para os usuários.
 
 #### Contribuições Pessoais
+<details>
+<summary>Implementação de Telas com JavaFX</summary>
+Desenvolvi interfaces gráficas utilizando JavaFX, criando telas intuitivas e funcionais que proporcionam uma experiência de usuário eficiente e alinhada aos objetivos do sistema.  
+  
+![image](https://github.com/user-attachments/assets/29ab9efa-e3da-4271-a870-ec9173c03820)
+
+![image](https://github.com/user-attachments/assets/bddfb03b-7769-431a-8e3d-3334d258ce01)
+
+</details>
+
+<details>
+<summary>Persistência de Dados com SQL Nativo</summary>
+Implementei a camada de persistência utilizando SQL nativo, por meio da API `java.sql.Connection`. Essa abordagem garantiu um controle detalhado sobre as consultas, otimizando o desempenho e assegurando a compatibilidade direta com o banco de dados.
+  
+![image](https://github.com/user-attachments/assets/b06d30c2-d005-4b64-a1ff-b4b947d4108b)
+
+![image](https://github.com/user-attachments/assets/49968fdd-4a89-49d1-9147-d37942a2adf4)
+
+</details>
+
+<details>
+<summary>Auxílio na Modelagem do Banco de Dados</summary>
+Colaborei na modelagem do banco de dados, auxiliando na definição de tabelas, seus relacionamentos e estruturas, garantindo a consistência e a integridade dos dados armazenados.
+  
+![ModelagemApiSprint2](https://github.com/user-attachments/assets/646a408b-5b00-4f32-8c54-ef8dc06bf298)
+
+</details>
+
 
 #### Hard Skills
 Desenvolvimento de Aplicações Desktop com JavaFX:
@@ -97,6 +125,14 @@ Integração de Banco de Dados em Aplicações Java:
 Competência em conectar e integrar o MySQL com Java, utilizando JDBC para realizar transações de dados de forma eficiente e segura.
 
 #### Soft Skills
+Gestão de Prioridades:
+Organizei as demandas do projeto, como o desenvolvimento das telas e a integração do banco de dados, equilibrando prazos e qualidade na entrega das tarefas..
+
+Flexibilidade e Aprendizado Rápido:
+Adaptei-me ao uso de diferentes tecnologias e frameworks, como CSS e JavaFX expandindo minhas competências ao longo do projeto.
+
+Comunicação Técnica:
+Participei de discussões e alinhamentos sobre a arquitetura do banco de dados e a lógica de negócio, compartilhando ideias e soluções de maneira clara e eficiente.
 
 </details>
 
