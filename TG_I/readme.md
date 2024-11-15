@@ -42,6 +42,22 @@ HTML:
 Linguagem de marcação utilizada para estruturar e organizar o conteúdo da aplicação web. Serve como a base para a construção de páginas, garantindo acessibilidade e semântica ao projeto.
 
 #### Contribuições Pessoais
+<details>
+<summary>Uso de JavaScript para Chamadas de APIs</summary>
+Implementei a integração entre o front-end e back-end utilizando JavaScript para realizar chamadas às APIs. Essa solução proporcionou uma comunicação eficiente entre os componentes da aplicação, aprimorando o desempenho e a experiência do usuário. 
+
+![image](https://github.com/user-attachments/assets/37860f0a-09ad-4195-8939-43f4fd2353b8)
+
+</details>
+
+<details>
+<summary>Criação de APIs com FastAPI</summary>
+Projetei e desenvolvi APIs utilizando o framework FastAPI, para atender às demandas do sistema.
+
+![image](https://github.com/user-attachments/assets/ccb2862b-9ba7-4fd9-9391-370f935211cb)
+
+</details>
+
 
 #### Hard Skills
 Python:
@@ -49,6 +65,9 @@ Conhecimento prático da linguagem Python, capaz de desenvolver funcionalidades 
 
 FastAPI:
 Habilidade na criação de APIs RESTful com FastAPI, incluindo configuração de endpoints e validação de dados.
+
+JavaScript: 
+Experiência no uso de JavaScript para integrar front-end e back-end, realizando chamadas a APIs de forma eficiente e garantindo uma comunicação fluida entre os componentes da aplicação.  
 
 #### Soft Skills
 Adaptabilidade:
