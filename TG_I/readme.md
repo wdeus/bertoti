@@ -209,6 +209,35 @@ Oracle:
 Banco de dados relacional utilizado para armazenar e gerenciar os dados dos parceiros de forma segura e eficiente, suportando consultas complexas e integração com o backend.
 
 #### Contribuições Pessoais
+<details>
+<summary>Implementação de Arquitetura Hexagonal</summary>
+Fui responsável por projetar e implementar a arquitetura hexagonal, um modelo que promove alta modularidade e facilidade de manutenção. Organizei a aplicação em três pilares principais:
+
+- **Core**: onde estão centralizadas as regras de negócio e as classes de domínio, garantindo independência e reusabilidade.  
+- **Inbound**: a camada de entrada da aplicação, englobando os controllers para receber interações externas.  
+- **Outbound**: a camada de saída, responsável pela comunicação com bancos de dados.  
+
+![image](https://github.com/user-attachments/assets/96ea03fb-67ba-44c4-a870-610ac22f34c7)
+
+Essa abordagem facilitou a escalabilidade do sistema e a separação clara de responsabilidades entre os componentes.
+
+</details>
+
+<details>
+<summary>Implementação de Envio de E-mails em Batch</summary>
+Desenvolvi o mecanismo de envio de e-mails em lotes (batch), utilizando jobs programados para execução em intervalos definidos. Essa solução garantiu eficiência no processamento, possibilitando o envio de e-mails de maneira controlada e escalável, essencial para atender às demandas do projeto.
+
+![image](https://github.com/user-attachments/assets/87af2be3-deb8-4f17-8254-cfcbdb495fa3)
+
+</details>
+
+<details>
+<summary>Definição de Tabelas e Relacionamentos</summary>
+Estruturei o banco de dados do projeto, criando tabelas e definindo seus relacionamentos. Este trabalho incluiu a análise dos requisitos, o desenho de diagramas relacionais e a implementação prática do modelo. Minha contribuição assegurou a consistência e a integridade dos dados, além de facilitar a interação com os diferentes módulos da aplicação.
+
+![image](https://github.com/user-attachments/assets/96778d7b-be27-40a6-85bd-aac19c97c8c3)
+
+</details>
 
 #### Hard Skills
 Desenvolvimento de APIs REST com Java e Spring:
