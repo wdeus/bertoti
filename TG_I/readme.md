@@ -370,7 +370,7 @@ O projeto consistiu no desenvolvimento de um sistema voltado à centralização 
 Linguagem de programação robusta usada no desenvolvimento de funcionalidades de backend, garantindo performance e confiabilidade no sistema.
 
 - **Spring**:  
-Framework para aplicações Java, utilizado para estruturar o backend, gerenciar dados, expor APIs REST e integrar o sistema com modelos de linguagem (LLM).
+Framework para aplicações Java, utilizado para estruturar o backend, expor APIs REST e integrar o sistema com modelos de linguagem (LLM).
 
 - **TypeScript**:  
 Linguagem baseada em JavaScript que adiciona tipagem estática ao desenvolvimento frontend, aumentando a segurança do código e a produtividade no desenvolvimento de interfaces interativas e modernas.
@@ -471,5 +471,106 @@ Ao assumir responsabilidades de liderança no projeto, precisei desenvolver uma 
 
 </details>
 
+<details>
+<summary>📅 2025-1</summary>
+  
+### 🛠️ Sistema Inteligente de Planejamento e Monitoramento de Reflorestamento
+
+Este projeto visou desenvolver um sistema inteligente para planejamento e monitoramento de reflorestamento, utilizando uma base de dados de plantio para prever padrões de crescimento, sugerir melhores estratégias de recuperação ambiental e monitorar a evolução das áreas reflorestadas.
+
+[GIT](https://github.com/orgs/api-6-pixel/repositories)
+
+#### 🖥️ Tecnologias Utilizadas
+
+- **Java**:  
+Linguagem de programação robusta usada no desenvolvimento de funcionalidades de backend, garantindo performance e confiabilidade no sistema.
+
+- **Spring**:  
+Framework para aplicações Java, utilizado para estruturar o backend.
+
+- **TypeScript**:  
+Linguagem baseada em JavaScript com tipagem estática, usada no desenvolvimento frontend para construir interfaces modernas, robustas e de fácil manutenção.
+
+- **Python**:  
+Linguagem dinâmica e poderosa utilizada especialmente para trabalhos com inteligência artificial, como manipulação de dados e interação com modelos de machine learning.
+
+- **Postgres**:  
+Banco de dados relacional utilizado para armazenar e gerenciar os dados do sistema com segurança, alto desempenho e suporte a consultas complexas.
+
+- **MongoDB**:  
+Banco de dados NoSQL orientado a documentos, adotado para armazenar dados com estrutura mais flexível, ideal para informações não padronizadas ou com esquemas variáveis.
+
+#### 💡 Contribuições Pessoais
+
+<details>
+<summary>🚀 Treinamento de Modelo com Redes Neurais</summary>
+
+Fui responsável pelo treinamento de um modelo de inteligência artificial utilizando redes neurais, com foco na classificação e extração de dados.
+<br>
+As etapas envolveram:
+
+- Preparação e limpeza dos dados de entrada..
+- Definição da arquitetura da rede e ajuste de hiperparâmetros.
+- Validação do modelo e análise de métricas de desempenho.
+
+&nbsp;
+
+![image](https://github.com/user-attachments/assets/29a1ce21-ee62-4182-817d-56a52caa1af8)
+
+Esse processo permitiu gerar um modelo robusto e alinhado com as necessidades da aplicação, agregando valor ao sistema por meio de automação inteligente.
+
+</details>
+
+<details>
+<summary>🚀 Criação de Serviço Python para Integração com o Modelo de IA</summary>
+
+Desenvolvi um serviço backend em Python responsável por intermediar a comunicação entre a aplicação e o modelo de inteligência artificial treinado.
+
+&nbsp;
+![image](https://github.com/user-attachments/assets/5fbe002d-02ad-4f35-9742-d4f7df654628)
+
+</details>
+
+<details>
+<summary>🚀 Implementação de Mecanismo de Deleção de Usuário com Garantia de Irreversibilidade (LGPD)</summary>
+
+Implementei a funcionalidade de deleção de usuário conforme os princípios da LGPD, com uma abordagem voltada para a irreversibilidade da recuperação dos dados.
+
+A estratégia adotada foi:
+
+- Criptografia dos dados pessoais no banco relacional.
+- Armazenamento da chave de descriptografia em um cluster MongoDB com duas réplicas e sem política de backup.
+- Ao solicitar a exclusão, a chave é permanentemente deletada do Mongo, impossibilitando a recuperação dos dados mesmo em caso de restauração de backups do banco principal.
+
+Essa solução oferece segurança jurídica e técnica, garantindo o cumprimento da legislação e a confiança dos usuários na plataforma.
+
+</details>
+
+#### 🔧 Hard Skills
+
+- **Treinamento de Modelos com Redes Neurais:**
+<br>Experiência prática em preparar datasets, definir arquiteturas de rede e treinar modelos de machine learning voltados para extração e classificação de dados, aplicando boas práticas de pré-processamento e avaliação de desempenho.
+
+- **Desenvolvimento de Serviços Python para Integração com IA:**  
+Habilidade em construir serviços backend com Python, utilizando frameworks leves (como FastAPI) para expor modelos treinados via API REST, integrando de forma eficiente componentes de IA ao ecossistema da aplicação.
+
+- **Criptografia e Segurança de Dados Sensíveis:**  
+Implementação de estratégias avançadas de criptação de dados pessoais, com uso de chaves exclusivas e armazenamento seguro sem backup, garantindo a irreversibilidade da recuperação e conformidade com a LGPD.
+
+- **Integração de Bancos SQL e NoSQL:**  
+Trabalho simultâneo com PostgreSQL e MongoDB, aproveitando o melhor de cada abordagem (relacional e orientada a documentos) para organizar dados estruturados e armazenar informações de controle de forma flexível e performática.
+
+#### 🌱 Soft Skills
+
+- **Capacidade de Aprendizado Autodirigido e Exploração Técnica:**
+<br>Durante o projeto, mergulhei em áreas até então pouco exploradas por mim, como inteligência artificial aplicada, arquitetura de modelos LLM e criptografia voltada à LGPD. Estudei como os modelos de linguagem funcionam na prática, desde o pré-processamento de dados até a comunicação entre serviços, além de compreender os fundamentos legais e técnicos necessários para implementar uma exclusão de dados verdadeiramente irreversível.
+
+- **Capacidade de Resolução de Problemas Complexos:**
+<br>A construção de uma solução para deleção de dados de acordo com a LGPD exigiu enfrentamento de diversas barreiras técnicas. Esse processo demandou análise crítica, criatividade e resiliência para lidar com tentativas fracassadas até chegar a uma abordagem sólida e segura.
+
+- **Responsabilidade Técnica e Autonomia:**
+<br>Assumi frentes de alto impacto no projeto, como a criação de serviços em Python para integração com IA e o desenvolvimento de funcionalidades sensíveis como a deleção de usuários conforme a LGPD. Essas responsabilidades exigiram autonomia na tomada de decisões técnicas, senso de prioridade e comprometimento com a qualidade e a segurança da aplicação.
+
+</details>
 
 
