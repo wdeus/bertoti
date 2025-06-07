@@ -355,6 +355,121 @@ Ao encontrar maneiras de ajudar meus colegas a compreender e executar a nova arq
 
 </details>
 
+<details>
+<summary>📅 2024-2</summary>
+  
+### 🛠️ Dashboard Interativo para Análise de Dados de Recrutamento e Seleção 
+
+O projeto consistiu no desenvolvimento de um sistema voltado à centralização e análise de dados do processo seletivo, visando solucionar desafios enfrentados por equipes de recrutamento. A plataforma permite a personalização de dashboards com diferentes tipos de gráficos e filtros, além de contar com um sistema de permissões modulares, envio automático de alertas por e-mail e exportação de dados. Com essa solução, torna-se possível obter uma visão estratégica e adaptável do processo de recrutamento, otimizando a tomada de decisões e aumentando a eficiência operacional.
+
+[GIT](https://github.com/orgs/api-5-sem/repositories)
+
+#### 🖥️ Tecnologias Utilizadas
+
+- **Java**:  
+Linguagem de programação robusta usada no desenvolvimento de funcionalidades de backend, garantindo performance e confiabilidade no sistema.
+
+- **Spring**:  
+Framework para aplicações Java, utilizado para estruturar o backend, gerenciar dados, expor APIs REST e integrar o sistema com modelos de linguagem (LLM).
+
+- **TypeScript**:  
+Linguagem baseada em JavaScript que adiciona tipagem estática ao desenvolvimento frontend, aumentando a segurança do código e a produtividade no desenvolvimento de interfaces interativas e modernas.
+
+- **Docker**:  
+Plataforma de conteinerização usada para empacotar e distribuir aplicações de forma padronizada, garantindo portabilidade, isolamento e facilidade no processo de deploy.
+
+- **Postgres**:  
+Banco de dados relacional utilizado para armazenar e gerenciar os dados do sistema com segurança, alto desempenho e suporte a consultas complexas.
+
+- **Kubernetes**:  
+Sistema de orquestração de contêineres utilizado para automatizar a implantação, o escalonamento e o gerenciamento de aplicações em ambientes distribuídos, garantindo alta disponibilidade e resiliência.
+
+#### 💡 Contribuições Pessoais
+
+<details>
+<summary>🚀 Implementação do Processo de Deploy</summary>
+
+Fui responsável por estruturar e implementar todo o processo de deploy da aplicação utilizando contêineres e orquestração via Kubernetes. A solução foi planejada para garantir escalabilidade, alta disponibilidade e organização dos serviços da aplicação.
+<br>
+A arquitetura foi composta por:
+
+- **Frontend**: executado em um pod dedicado.
+- **Backend**: distribuído em dois pods para garantir balanceamento de carga e resiliência.
+- **NGINX Ingress Controller**: para gerenciamento do tráfego e roteamento das requisições.
+- **Banco de Dados**: utilizando um serviço gerenciado em nuvem para garantir confiabilidade e manutenção simplificada.
+
+&nbsp;
+
+![391197722-e489f847-d373-4eb9-9f0e-978e85a3a332](https://github.com/user-attachments/assets/23e19f17-5f57-4745-aaed-05462c5ee80a)
+
+
+Essa estrutura permitiu um ciclo de entrega contínua mais robusto e alinhado às boas práticas de DevOps.
+
+</details>
+
+<details>
+<summary>🚀 Integração com LLM para Extração e Processamento de Dados</summary>
+
+Implementei a integração entre o backend e um modelo de linguagem LLM, utilizando o Spring AI e o modelo LLaMA, com o objetivo de processar arquivos Excel enviados pelo usuário.
+
+A solução permitiu:
+
+- Extração automática de dados dos arquivos.
+- Mapeamento e preenchimento dinâmico das entidades do sistema com base nas informações extraídas.
+- Redução do trabalho manual e aumento da eficiência no cadastro e análise de dados.
+
+Essa funcionalidade adicionou um diferencial de inteligência ao sistema, elevando seu nível de automação.
+
+&nbsp;
+![image](https://github.com/user-attachments/assets/675a97a0-ed9b-428f-9596-d5985216694f)
+
+</details>
+
+<details>
+<summary>🚀 Atuação como Scrum Master</summary>
+
+Assumi o papel de Scrum Master durante o projeto, sendo responsável por organizar as cerimônias ágeis, acompanhar o progresso do time e garantir a entrega contínua de valor.
+
+Minhas atividades incluíram:
+
+- Planejamento de sprints e definição de prioridades.
+- Acompanhamento e gestão de tarefas utilizando o Jira.
+- Apoio à equipe para remoção de impedimentos e melhoria do fluxo de trabalho.
+
+Essa atuação foi fundamental para manter o time alinhado, engajado e focado nos objetivos do projeto.
+
+</details>
+
+#### 🔧 Hard Skills
+
+- **Modelagem de Dados com Esquema Estrela:**
+  
+Experiência na definição de um modelo de dados baseado em esquema estrela, facilitando a organização e análise de dados por meio de tabelas fato e dimensões.
+
+- **Conteinerização de Aplicações com Docker:**  
+Habilidade na criação de imagens Docker e configuração de contêineres para isolar e padronizar os ambientes de execução da aplicação, promovendo portabilidade e consistência entre ambientes de desenvolvimento e produção.
+
+- **Orquestração com Kubernetes:**  
+Conhecimento prático na utilização de Kubernetes para gerenciar, escalar e monitorar os contêineres da aplicação, garantindo alta disponibilidade e resiliência nos serviços implantados.
+
+- **Integração com Modelos de Linguagem (LLM):**  
+Implementação de soluções baseadas em Large Language Models, com uso do Spring AI e integração com o modelo LLaMA, para automatizar a extração e o processamento de dados estruturados a partir de arquivos Excel.
+
+- **Utilização de Serviços em Nuvem (Azure):**
+<br>Contato prático com serviços gerenciados na nuvem Microsoft Azure.
+
+#### 🌱 Soft Skills
+
+- **Gestão de Pessoas**:  
+Atuando como Scrum Master, desenvolvi habilidades de liderança e organização, coordenando o time através do Jira, facilitando cerimônias ágeis e garantindo o acompanhamento das entregas. Esse papel me ajudou a entender melhor como manter o time produtivo, motivado e focado nos objetivos do projeto.
+
+- **Persistência e Resolução de Problemas:**:  
+A implementação do processo de deploy foi repleta de desafios técnicos. Enfrentei diversos entraves ao longo do caminho, exigindo resiliência e pensamento crítico para buscar soluções, testar hipóteses e garantir a entrega de uma infraestrutura funcional e escalável.
+
+- **Comunicação Assertiva e Maturidade para Cobrança**:  
+Ao assumir responsabilidades de liderança no projeto, precisei desenvolver uma comunicação mais assertiva e orientada a resultados, especialmente ao lidar com cobranças de prazos e organização de entregas. Aprendi a adaptar meu tom de voz, a ser claro e direto sem ser impositivo, mantendo o respeito e a colaboração mesmo em momentos de pressão.
+
+</details>
 
 
 
